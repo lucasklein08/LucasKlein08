@@ -10,4 +10,4 @@ Meu nome é Lucas Antonio Milkiewicz Klein
 
 lucas.milkiewicz.klein@escola.or.gov.br
 
-![descrição do GIF](https://tenor.com/beeyM.gifk)
+!(https://tenor.com/beeyM.gifk)
