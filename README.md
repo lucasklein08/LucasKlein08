@@ -8,6 +8,6 @@ Meu nome é Lucas Antonio Milkiewicz Klein
 
 ### Você pode entrar em contato comigo :mailbox
 
-lucas.milkiewicz.klein@escola.or.gov.br
+lucas.milkiewicz.klein@escola.pr.gov.br
 
 ![](https://tenor.com/pt-BR/view/motocross-muddy-flop-gif-15746550)
